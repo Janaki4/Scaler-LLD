@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "typescript": "^5.1.6"
+  },
+  "name": "lecture1_student",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "tsc -w",
+    "dev":"node dist/student.js",
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
